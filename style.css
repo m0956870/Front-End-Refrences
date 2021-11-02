@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #d3d3d3;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main{
+  margin: 10px;
+  cursor: pointer;
+}
+
+
+.API{
+  display: flex;
+}
+
+
+.box{
+  height: 100px;
+  width: 200px;
+  background-color: #fff;
+  margin-top: 1em;
+}
+.dom{
+  margin: 16px;
+}
+
+.dom .list{
+  list-style: none;
+  margin-top: 0.5em;
+}
+.dom .list .list-item{
+  padding-bottom: 0.5em;
+  cursor: pointer;
+}
+
+
+/* .covid19{
+  background-color: #fff;
+  height: auto;
+  width: 300px;
+  border-radius: 20px;
+  margin: 10px;
+  overflow: hidden;
+}
+.h3{
+  margin: 10px auto;
+  margin-left: 25%;
+  letter-spacing: 1px;
+}
+.h4{
+  margin: 10px 15px;
+  color: grey
+}
+.ul{
+  margin-left: 35px;
+}
+.ul li{
+  margin: 5px 0;
+} */
+
+
+
+
+
+/* TABLE */
+.roadmap {
+  border-collapse: collapse;
+  background-color: #fff;
+  height: 100px;
+  width: 50%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+table caption {
+  margin-bottom: 10px;
+}
+th,
+td {
+  border: 1px solid #000;
+  margin: auto;
+  text-align: center;
+  padding: 8px;
+}
+
+
+
+/* JQuery */
+
